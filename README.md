@@ -57,7 +57,6 @@ Habibi HMS is designed with usability, security, and modularity in mind. It supp
   <img src="images/login-Page.JPG" alt="Login Page" width="400"/>
 </p>
 
-*(Add your actual image files to the `images/` folder)*
 
 ---
 
@@ -72,7 +71,7 @@ This repository is intended for **showcasing the features and design** of the Ha
 If you are a recruiter, client, or collaborator interested in the full implementation:
 
 📩 **Email:** [shahreyarhabibi@gmail.com](mailto:shahreyarhabibi@gmail.com)  
-💼 *(Optional)* LinkedIn: [Your LinkedIn Profile]
+💼 LinkedIn: https://www.linkedin.com/in/ali-reza-habibi/
 
 ---
 
