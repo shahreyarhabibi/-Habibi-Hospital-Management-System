@@ -52,9 +52,9 @@ Habibi HMS is designed with usability, security, and modularity in mind. It supp
 > Here are some example screenshots of the system UI:
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Dashboard" width="600"/>
+  <img src="images/admin-dashboard.png" alt="Dashboard" width="600"/>
   <br><br>
-  <img src="images/login-page.png" alt="Login Page" width="400"/>
+  <img src="images/login-Page.png" alt="Login Page" width="400"/>
 </p>
 
 *(Add your actual image files to the `images/` folder)*
