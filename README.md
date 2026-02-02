@@ -7,6 +7,11 @@ Welcome to the **Habibi Hospital Management System (HMS)** – a comprehensive, 
 If you're interested in seeing the full working version or collaborating on the project, feel free to contact me:  
 📧 **shahreyarhabibi@gmail.com**
 
+## 🌐 Live Demo
+
+Check out the live demo of Habibi HMS here:  
+[https://habibihospital.great-site.net/](https://habibihospital.great-site.net/)
+
 ---
 
 ## 📌 Project Highlights
@@ -77,6 +82,7 @@ Habibi HMS is designed with usability, security, and modularity in mind. It supp
 ---
 
 ## 📄 About This Repository
+
 
 This repository is intended for **showcasing the features and design** of the Habibi HMS project only. It does not contain:
 
