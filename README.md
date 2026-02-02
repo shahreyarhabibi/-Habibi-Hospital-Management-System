@@ -35,6 +35,22 @@ Habibi HMS is designed with usability, security, and modularity in mind. It supp
 
 ---
 
+## 🔐 Demo Logins
+
+> Use the following sample logins to access each role:
+
+| Role         | Email                                                     | Password     |
+| ------------ | --------------------------------------------------------- | ------------ |
+| Admin        | [admin@domain.com](mailto:admin@domain.com)               | admin        |
+| Doctor       | [doctor@domain.com](mailto:doctor@domain.com)             | doctor       |
+| Patient      | [patient@domain.com](mailto:patient@domain.com)           | patient      |
+| Accountant   | [accountant@domain.com](mailto:accountant@domain.com)     | accountant   |
+| Nurse        | [nurse@domain.com](mailto:nurse@domain.com)               | nurse        |
+| Receptionist | [receptionist@domain.com](mailto:receptionist@domain.com) | receptionist |
+| Pharmacist   | [pharmacist@domain.com](mailto:pharmacist@domain.com)     | pharmacist   |
+
+---
+
 ## 🎯 Key Features
 
 - ✅ Role-based authentication and access control
